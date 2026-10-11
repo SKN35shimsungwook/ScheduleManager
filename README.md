@@ -1,5 +1,7 @@
 # 📅 ScheduleManager
 
+**🔗 바로 실행해 보기:** https://schedulemanager-xb6jxpmhs2wkg5stggxvdb.streamlit.app
+
 공부 일정, 자격증, 할 일, 공부 시간을 한 곳에서 관리하는 개인용 Streamlit 대시보드 앱이에요.
 
 ## 기능 (페이지별)
